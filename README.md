@@ -1,5 +1,5 @@
 # **oral-cancer**
-_Stain Deconvolution for Deep Learning Based Multiclass Diagnosis of Oral Cancer in Liquid-Based Cytology_
+**_Stain Deconvolution for Deep Learning Based Multiclass Diagnosis of Oral Cancer in Liquid-Based Cytology_**
 
 
 **Background:** Oral cancer remains a major public health challenge, with prognosis and survival rates highly dependent on early detection
